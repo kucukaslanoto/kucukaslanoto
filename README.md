@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I'm using this account for my work for [@OTOGlobal](https://github.com/OTOGlobal).  
+See [@Kucukaslan](https://github.com/kucukaslan) for my personal GitHub.
 <!--
 **kucukaslanoto/kucukaslanoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
